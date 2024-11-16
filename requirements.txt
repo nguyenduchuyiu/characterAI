@@ -1,0 +1,10 @@
+chromadb
+langchain
+sentence-transformers
+torch
+transformers
+pandas
+numpy
+pyyaml
+jupyter
+pytest

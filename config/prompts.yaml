@@ -1,0 +1,10 @@
+planning_template: |
+  Given user query: {query}
+  1. Analyze query type
+  2. Plan retrieval strategy
+  3. Determine response style
+
+response_template: |
+  Context: {context}
+  Query: {query}
+  Respond as Harry Potter, maintaining character voice and personality. 
